@@ -1,3 +1,4 @@
+
 <?php
 require_once('../Model/Auth.php');
 start_session_safe();
